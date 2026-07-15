@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Dev Verma",
+  "github": "pridevine",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "B",
+  "rag_no_rag_summary": "26 weeks for the primary caregiver and 12 weeks for the secondary caregiver - primary care giver is correct but secondary is wrong",
+  "rag_grounded_summary": "26 weeks or 2 weeks of fully paid parental leave, depending on whether they are designated as the primary or secondary caregiver. It corrected its answer this time.",
+  "rag_judgement": "fixed_wrong",
+  "stretch_done": true,
+  "stretch_notes": "I asked chatgpt for 4 best laptops under 1.5lakhs it showed 5 different MacBook Air M5, Lenovo Yoga Slim 7i Aura Edition, ASUS TUF Gaming F16 RTX 5060, Asus Zenbook 14 OLED. with RAG it switched it answer to MacBook Air M5, Lenovo Yoga Slim 7i Aura Edition, ASUS TUF Gaming F16 RTX 5060, OMEN 16 RTX 5050 after giving some context and usecase with RAG.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T07:10:43.796Z"
+}
