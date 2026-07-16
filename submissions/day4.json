@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Dev Verma",
+  "github": "pridevine",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "Hallucination because the bot fabricated the data without being reliable"
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "Privacy of the employees was compromised alond with the client details"
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Safety",
+      "justification": "With a deepfake/misinformation the trust on the firm that people had was damaged"
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "Bias based on gender violates fairness for all"
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Human Oversight",
+      "justification": "Since no human in the loop checked the bias."
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "The security of the firm was breached using voice cloning"
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Air Canada's chatbot (2022–2024)",
+  "stretch_failure_type": "Hallucination",
+  "stretch_principle": "Reliability",
+  "stretch_notes": "A customer named Jake Moffatt used Air Canada's website chatbot to ask about bereavement fares after a family death. The bot told him he could book a regular-price flight and then apply for a bereavement discount retroactively, within 90 days. That's not how Air Canada's actual policy worked — the real policy required the discount request to be submitted before travel, and it was a different, more restrictive process than what the bot described. The bot essentially invented a friendlier version of the policy.\nMoffatt followed the bot's instructions, applied afterward, and was refused. He escalated to Canada's Civil Resolution Tribunal.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:38:47.504Z"
+}
