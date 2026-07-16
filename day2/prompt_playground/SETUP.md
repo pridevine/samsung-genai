@@ -32,8 +32,8 @@ We're using **llama3.2:1b** — a small model (~1.3GB) chosen specifically so it
 
 1. In the same Command Prompt window, type:
    ```
-   ollama pull llama3.2:1b
-   ```
+   ollama pull llama3.2:1b   
+```
 2. Press Enter and wait — this downloads the model (a few minutes depending on WiFi speed). You'll see a progress bar.
 3. When it finishes, verify it downloaded correctly:
    ```
